@@ -1,0 +1,13 @@
+# Xcode / Derived
+DerivedData/
+build/
+*.xcuserdatad
+*.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+
+# Productos
+*.app
+*.dSYM
+
+# macOS
+.DS_Store
